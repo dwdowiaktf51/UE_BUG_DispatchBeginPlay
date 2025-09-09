@@ -1,0 +1,7 @@
+*.sln
+*.vsconfig
+Saved/
+Intermediate/
+DerivedDataCache
+.vs/
+Binaries/
